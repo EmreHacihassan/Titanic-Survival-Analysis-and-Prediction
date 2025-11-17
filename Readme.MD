@@ -34,7 +34,7 @@ Aşağıdaki 6 görsel, EDA’nın temel içgörülerini özetler. Görsel yerle
 
 2) Yolcu Sınıfı (Pclass) ve Ücret (Fare)
 - İçgörü: 1. sınıf yolcular daha yüksek ücret ve daha yüksek hayatta kalma eğilimine sahip.
-- Görsel: output2
+- Görsel: 
 <img width="854" height="553" alt="Image" src="https://github.com/user-attachments/assets/b71f5994-10c9-44b1-91aa-c44008990a31" />
 
 3) Yaş Dağılımı (KDE) x Hayatta Kalma
