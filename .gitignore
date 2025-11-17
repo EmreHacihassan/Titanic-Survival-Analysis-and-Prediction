@@ -1,0 +1,40 @@
+# Data (keep a placeholder, ignore raw CSVs)
+Titanic Data/*
+!Titanic Data/.gitkeep
+!Titanic Data/README.md
+
+# Generated artifacts
+submission.csv
+*.pkl
+*.joblib
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# Tools/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Caches/Reports
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+*.log
+build/
+dist/
+pip-wheel-metadata/
