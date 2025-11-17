@@ -30,27 +30,33 @@ Aşağıdaki 6 görsel, EDA’nın temel içgörülerini özetler. Görsel yerle
 1) Cinsiyete Göre Hayatta Kalma
 - İçgörü: Kadın yolcuların hayatta kalma oranı anlamlı biçimde daha yüksek.
 - Görsel:
-![Açıklama](images/output1.png)
+<img width="854" height="550" alt="Image" src="https://github.com/user-attachments/assets/de2f7918-50c7-45b9-9436-abe0594dce84" />
 
 2) Yolcu Sınıfı (Pclass) ve Ücret (Fare)
 - İçgörü: 1. sınıf yolcular daha yüksek ücret ve daha yüksek hayatta kalma eğilimine sahip.
 - Görsel: output2
+<img width="854" height="553" alt="Image" src="https://github.com/user-attachments/assets/b71f5994-10c9-44b1-91aa-c44008990a31" />
 
 3) Yaş Dağılımı (KDE) x Hayatta Kalma
 - İçgörü: Çocuklar/gençlerde görece daha yüksek hayatta kalma eğilimi görünüyor.
-- Görsel: output3
+- Görsel: 
+<img width="858" height="550" alt="Image" src="https://github.com/user-attachments/assets/64aefdec-7077-4993-a3eb-f412ae183c95" />
 
 4) Ünvan (Title) ve Hayatta Kalma
 - İçgörü: Ünvan bilgisi güçlü ayırt edicilik taşıyor; nadir ünvanlar `Rare` altında toplanarak genellenebilirlik artırılıyor.
-- Görsel: output4
+- Görsel: 
+<img width="850" height="553" alt="Image" src="https://github.com/user-attachments/assets/c7264333-2ccd-4d45-bce4-35b7a650333e" />
 
 5) Aile Büyüklüğü (FamilySize) ve IsAlone
 - İçgörü: Tek başına seyahat (IsAlone=1) hayatta kalma ile negatif ilişkili; çok büyük ailelerde de risk artabiliyor.
-- Görsel: output5
+- Görsel: 
+<img width="850" height="550" alt="Image" src="https://github.com/user-attachments/assets/b0b3ddf4-151c-4718-8761-d1e84e1f7503" />
 
 6) Korelasyon Isı Haritası (Sayısal Değişkenler)
 - İçgörü: `Sex`, `Pclass`, `Fare` gibi değişkenler `Survived` ile anlamlı ilişkiler gösteriyor.
-- Görsel: output6
+- Görsel: 
+<img width="870" height="627" alt="Image" src="https://github.com/user-attachments/assets/d2d85dbe-7c31-4ce1-ae09-98e44bf6af0b" />
+
 
 ---
 
